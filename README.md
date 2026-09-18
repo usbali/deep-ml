@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 6 problems · 0 labs · 0 math
+**7** solved · 7 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Implement Gradient Clipping by Value](https://www.deep-ml.com/problems/292) | easy | 2026-09-18 | [solution](problems/0292-implement-gradient-clipping-by-value) |
 | [Implement He Weight Initialization](https://www.deep-ml.com/problems/290) | easy | 2026-09-18 | [solution](problems/0290-implement-he-weight-initialization) |
 | [Implement RMSNorm (Root Mean Square Layer Normalization)](https://www.deep-ml.com/problems/372) | easy | 2026-09-16 | [solution](problems/0372-implement-rmsnorm-root-mean-square-layer-normalization) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-09-15 | [solution](problems/0039-implementation-of-log-softmax-function) |

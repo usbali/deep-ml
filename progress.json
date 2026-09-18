@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T08:53:54.914Z",
+  "generated_at": "2026-09-18T10:25:32.473Z",
   "items": {
     "problem:294": {
       "kind": "problem",
@@ -78,6 +78,19 @@
       "last_pushed_at": "2026-09-18T08:53:54.762Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:292": {
+      "kind": "problem",
+      "id": "292",
+      "title": "Implement Gradient Clipping by Value",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/292",
+      "path": "problems/0292-implement-gradient-clipping-by-value",
+      "first_solved_at": "2026-09-18T10:25:31.815Z",
+      "last_pushed_at": "2026-09-18T10:25:31.815Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
